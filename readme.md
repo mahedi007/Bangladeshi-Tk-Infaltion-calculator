@@ -1,4 +1,4 @@
-# Bangladesh Inflation Calculator
+# Bangladeshi Taka Inflation Calculator
 
 This project calculates the inflation-adjusted value of a specific amount of money in Bangladesh between a selected range of years (1970 to 2024). It uses historical inflation data to provide an accurate comparison of how the value of money has changed over time.
 
@@ -15,7 +15,7 @@ This project calculates the inflation-adjusted value of a specific amount of mon
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/mahedi007/bangladesh-inflation-calculator.git
+    git clone https://github.com/mahedi007/Bangladeshi-Tk-Infaltion-calculator.git
     ```
 
 2. Navigate to the project directory:
